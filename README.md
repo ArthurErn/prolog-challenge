@@ -29,8 +29,8 @@ lib/
 ├── view/
 │   ├── splashscreen.dart
 │   ├── tire_info.dart
-│   ├── tire_list_screen.dart
-├── main.dart
+│   └── tire_list_screen.dart
+└── main.dart
 
 ## Instalação:
 1. Clone o repositório:

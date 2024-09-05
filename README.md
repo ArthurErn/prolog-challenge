@@ -1,7 +1,7 @@
-```
+
 Este projeto foi desenvolvido como parte de um desafio técnico proposto para uma vaga de desenvolvedor Flutter Pleno na empresa Prolog.
 O objetivo do desafio foi construir uma aplicação Flutter que consome uma API para exibir informações detalhadas sobre pneus, utilizando boas práticas de desenvolvimento mobile e otimização de performance.
-```
+
 ## Versões utilizadas:
 ```
 Flutter (Channel stable, 3.22.2, on Microsoft Windows [versÆo 10.0.22631.4112], locale pt-BR)

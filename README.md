@@ -40,8 +40,14 @@ lib/
 ```
 ## Instalação:
 1. Clone o repositório:
+   ```
     git clone https://github.com/usuario/nome-do-projeto.git
-2. Instale as dependências:
+   ```
+3. Instale as dependências:
+   ```
     flutter pub get
-3. Rode o projeto:
+   ```
+4. Rode o projeto:
+   ```
     flutter run
+   ```
